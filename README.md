@@ -104,7 +104,7 @@ This repo is the **core engine source** of `ttpoker / Texas-Hold-em-Cash-Tables_
 
 
 - **Telegram**：@godispokerai
-- 
+- EMail:libaishi62@gmail.com
 
 
 

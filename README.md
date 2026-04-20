@@ -1,5 +1,4 @@
-# TTpoker – 全球德州扑克俱乐部平台（产品授权及联合运营合作）
-# Texas Hold'em Poker Engine  
+# Texas Hold'em Poker Engine – 全球德州扑克俱乐部平台（产品授权及联合运营合作）
 # 德州扑克引擎（俱乐部平台）
 > 一款支持俱乐部与多俱乐部平台的德州扑克游戏引擎，适用于 Web（H5）、APP、俱乐部运营等场景。  
 > A Texas Hold'em poker engine supporting cash tables, clubs and multi‑club platforms for Web(H5), APP, club operations.
@@ -129,7 +128,15 @@ This is a **Texas Hold'em poker core engine**, suitable for building:
 3️⃣ 提供Demo试玩账号 + 合作方案PPT  
 4️⃣ 预约技术演示与答疑  
 
----
+## 测试用例说明（Testing)
+
+- test/core/  
+  - 手牌评估测试：验证不同牌型的组合与比较  
+  - 边池拆分测试：多 all‑in 场景的边池是否正确分配  
+- test/game/  
+  - 一局完整牌局测试：Pre-flop → Flop → Turn → River → 摊牌，结算正确  
+- test/extensibility/  
+  - 模拟后续玩法扩展（如短牌、AOF），验证引擎可支持不同规则  
 
 ## ❓ 常见问题（FAQ）
 

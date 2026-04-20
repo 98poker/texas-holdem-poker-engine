@@ -13,3 +13,13 @@
 
        新玩家登录游戏平台在俱乐部场赠送500个钻石（俱乐部场使用）
 俱乐部模式中有私人房+俱乐部+八个德州玩法+官方比赛场+联盟，俱乐部中群主可以抽水和保险盈利；
+
+寻求合作，
+## 🤝 合作模式（四选一，请明确你的意向）
+
+| 模式 | 中文说明 | English description | 适合谁 |
+| :--- | :--- | :--- | :--- |
+| **区域代理**<br>Regional Agent | 你推广玩家，我们提供游戏与技术，按流水分润 | You bring traffic; we provide game & tech and share revenue by rake / profit | 有本地渠道、流量资源者<br>Local operators / traffic owners |
+| **产品授权**<br>Product License | 一次性获取全端产品，品牌可自定义，自主部署运营 | One‑time purchase of full product; rebrandable, self‑hosted | 想自营品牌、想快速上线者<br>Operators with own brand |
+| **联合运营**<br>Joint Operation | 双方共同投入资金与资源，按出资比例分成 | Joint capital + operation, profit sharing by stake | 有资金且希望深度绑定者<br>Investors / long‑term partners |
+| **源码授权**<br>Source Code License | 一次性获取全端源码，可二次开发，自主运营 | One‑time source code license, extensible & customizable | 有技术团队、想深度自研者<br>Teams with strong dev capacity |

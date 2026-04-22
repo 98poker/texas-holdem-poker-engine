@@ -1,6 +1,6 @@
 # Texas Hold'em Club Platform – 德州扑克俱乐部平台|德州俱乐部完整项目（合作）
 
-> 一套完整的德州扑克**俱乐部模式**运营平台，支持多俱乐部、代理分润、赛事联盟。可出售完整产品或源码。  
+> 一套完整的德州扑克**俱乐部模式**运营平台，支持多俱乐部、代理分润、赛事联盟。  
 > A complete Texas Hold'em platform for **club-based operations**, supporting multi-club, agent commission, and tournament leagues. Full product or source code available.
 > 一套已上线、可试玩的德州俱乐部平台，支持产品授权、区域代理、联合运营合作。  
 > A ready‑to‑play Texas Hold'em club platform, available for source code sale, product licensing, regional agency, joint operation.
@@ -63,7 +63,7 @@
 
 | 中文 | English |
 | :--- | :--- |
-| 完整客户端源码（iOS/Android/H5） | Full client source code (iOS/Android/H5) |
+
 | 完整后端源码 + 管理后台 | Full backend source code + admin dashboard |
 | 俱乐部后台管理系统 | Club backend management system |
 | 代理分润系统 | Agent commission system |
@@ -77,7 +77,6 @@
 | 模式 | 说明 | 适合人群 |
 | :--- | :--- | :--- |
 | **产品授权** | 一次性获取完整产品（品牌可自定义），自主部署运营 | 想快速上线、无技术团队者 |
-| **源码授权** | 一次性获取全端源码，可二次开发 | 有技术团队、需要深度定制者 |
 | **区域代理** | 你推广俱乐部/玩家，我们提供技术，按流水分润 | 有本地流量或渠道资源者 |
 | **联合运营** | 共同投资，按股份比例分红 | 有资金且希望长期合作者 |
 
@@ -99,7 +98,6 @@
 | 模式 | 费用说明 |
 | :--- | :--- |
 | 产品授权 | 一次性费用 **在线沟通议** + 每年技术服务费 **15%**（可选） |
-| 源码授权 | 一次性费用 **在线沟通议** |
 | 区域代理 | 流水返点 **30%–50%** |
 | 联合运营 | 按出资比例，季度分红 |
 
